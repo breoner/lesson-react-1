@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Іван",
+    "age": 25,
+    "city": "Київ",
+    "isStudent": false
+  },
+  {
+    "id": 2,
+    "name": "Олена",
+    "age": 30,
+    "city": "Львів",
+    "isStudent": false
+  },
+  {
+    "id": 3,
+    "name": "Петро",
+    "age": 22,
+    "city": "Івано-Франківськ",
+    "isStudent": true
+  }
+]
